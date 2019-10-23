@@ -4,6 +4,8 @@
 #include <vector>
 #include <algorithm>
 
+#by: Moh Nur Zamharir
+
 using namespace std;
 
 int main()
